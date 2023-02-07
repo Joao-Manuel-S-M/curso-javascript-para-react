@@ -1,5 +1,11 @@
+html, body {
+    font-family: 'Press Start 2P', cursive;
+    height: 100%;
+}
+
 body {
     background-color: var(--color-pomb-and-power);
     max-width: 320px;
-    margin: 0 auto !important;
+    margin: 0 auto;
+    font-family: 'Press Start 2P';     
 }
