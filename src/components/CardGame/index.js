@@ -4,7 +4,7 @@ import "./style.css";
 
 function CardGame() {
     
-    return`
+    return /*html*/`
         <article class="card-game" id="card1">
             <img src="images/alura-pixel.png" alt="Logo da Alura">
         </article>
